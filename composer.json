@@ -1,5 +1,5 @@
 {
-    "name": "cpanel-uapi-php-class",
+    "name": "scorpionslh/cpanel-uapi-php-class",
     "type": "library",
     "description": "A class forked from N1ghteyes",
     "keywords": ["cpanel"],
